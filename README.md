@@ -1,16 +1,14 @@
-### Hi there 👋
+<h3 align="center">Hello, im Eren. </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erennoz&label=Profile%20views&color=0e75b6&style=flat" alt="erennoz" /> </p>
 
-<!--
-**erennoz/erennoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/eren-öz-893a511b4/" target="blank"><img align="center" src="https://sadullahkisacik.com/wp-content/uploads/2019/12/linkedin.png" alt="Eren ÖZ" height="40" width="40" /></a>
+<a href="https://www.instagram.com/erennoz_/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="fuyk4n" height="40" width="40" /></a>
+</p>
+<h3 align="left">Languages and Tools:</h3>
 
-Here are some ideas to get you started:
+ <img src="https://reactnative.dev/img/tiny_logo.png" alt="react-native" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erennoz&theme=radical&show_icons=true)
